@@ -1,0 +1,8 @@
+.align-bottom {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+.mantine-ScrollArea-root {
+    padding: calc(1.5rem * 2) 1.5rem;
+}

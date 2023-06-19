@@ -1,0 +1,49 @@
+.journal-container {
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+.journal-header {
+  padding: 40px 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+.journal-main {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.journal-section {
+  margin-top: 40px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #555;
+  line-height: 1.5;
+}
+
+@media (min-width: 768px) {
+  .journal-main {
+    padding: 0 40px;
+  }
+
+  h1 {
+    font-size: 48px;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
+}
