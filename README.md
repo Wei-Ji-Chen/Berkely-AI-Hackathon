@@ -1,7 +1,5 @@
 # Berkely-AI-Hackathon
 
-Uploaded files from hackathon team. 
-
 Therapy on average costs between $60-$120 without insurance and for many, there’s still a stigma attached to needing help with mental health. mindflow presents itself as an AI therapist to help individuals in need at a no-cost option while preserving the privacy of their mental health.
 
 Our special model serves as a mental health assistant, taking notes as you talk to it like a therapist would. Furthermore, unlike other chatbots, we consider the user's emotions present in their voice as part of the context of what they say. When you ask a new question or interact with mindflow, it retrieves the most relevant note it’s taken in the past and analyzes the user's emotions behind their speech to help it respond. This approach to a therapist-like interaction allows us to track mental health progress and provide better context to the assistant based upon what the user has previously said no matter how long ago!
